@@ -12,7 +12,6 @@ function newItem(){
     //      alert("You must write something!");
     //    } else {
     //      let list = document.querySelector('#list');
-    //      list.appendChild(li);
 
 
        let li = $('<li></li>');
